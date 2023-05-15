@@ -6,6 +6,10 @@ body {
     font-family: 'Kaisei Opti', serif;
 }
 
+.card-header {
+    background-color: #f8ecf3;
+}
+
 
 .slider {
     overflow: hidden;
