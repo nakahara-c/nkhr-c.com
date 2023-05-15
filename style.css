@@ -24,9 +24,14 @@ body {
 }
 
 @keyframes scroll {
-    0% { transform: translateX(0); }
-    100% { transform: translateX(calc(-16.66% * 5)); }
-  }
+    0% {
+        transform: translateX(0);
+    }
+
+    100% {
+        transform: translateX(calc(-16.66% * 5));
+    }
+}
 
 .slide img {
     width: 100%;
